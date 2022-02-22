@@ -3,7 +3,7 @@ title: Coder Not Cute
 description: Welcome to Smartmx's Blog.
 ---
 
-## 目前开发的库  
+## 开发项目  
 
 ### [TFDB: Tiny Flash Database for MCU](https://blog.maxiang.vip/TFDB/)  
 
@@ -17,13 +17,17 @@ tiny macro os是采用protothread机制运行的单片机宏定义微内核,开�
 
 ProtoThread是从contiki ng物联网操作系统中提取出的伪RTOS任务管理内核。
 
-## MCU编程经验  
+## MCU编程经验
+
+[Keil中文设置](MCU/20220220_keil_cn.md)
 
 ## 学习笔记
 
 [C语言宏定义细讲](code-skills/20170727_c_define.md)
 
 [C语言状态机细讲](code-skills/20170728_FSM.md)
+
+[CMake入门](code-skills/20220220_cmake_1.md)
 
 ## 小工具/游戏
 
