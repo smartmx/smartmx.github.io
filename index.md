@@ -39,4 +39,6 @@ ProtoThread是从contiki ng物联网操作系统中提取出的伪RTOS任务管�
 
 ## 常用编程工具方法
 
+[astyle代码格式化配置](code-skills/20220303_astyle.md)
+
 [Github Pages配置方法](code-tools/GithubPageCfg.md)  
