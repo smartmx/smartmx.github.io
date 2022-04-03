@@ -13,6 +13,10 @@ TFDB可以帮助你更方便的在单片机flash上存储信息。
 
 MFBD可以帮助你更轻松的构建层次清晰的按键操作程序。
 
+### [hash-match: using hashmap on MCU](https://blog.maxiang.vip/hash-match)
+
+hash-match可以帮助你更快速的匹配数据。
+
 ### [tiny macro os](https://blog.maxiang.vip/tiny-macro-os/)
 
 tiny macro os是采用protothread机制运行的单片机宏定义微内核,开发更精简快捷。  
