@@ -1,5 +1,5 @@
 ---
-title: Coder Not Cute
+title: Coder Not Cutie
 description: Welcome to Smartmx's Blog.
 ---
 

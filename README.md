@@ -1,4 +1,4 @@
-# Coder Not Cute
+# Coder Not Cutie
 
 这里是个人技术分享的博客:  
 
